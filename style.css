@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: crimson;
+    text-align: center;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    text-align: right;
+}
